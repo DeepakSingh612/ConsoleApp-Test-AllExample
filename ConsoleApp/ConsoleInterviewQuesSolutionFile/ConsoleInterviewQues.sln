@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.7.34003.232
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleApp_4_InterviewQues", "ConsoleApp_4_InterviewQues.csproj", "{819A298F-1A4C-4BB4-AEC7-6EA7141A21E5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleInterviewQues", "ConsoleInterviewQues.csproj", "{819A298F-1A4C-4BB4-AEC7-6EA7141A21E5}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StaticConstructor", "..\StaticConstructor\StaticConstructor.csproj", "{5EA3B115-62E0-4CFF-8727-D2B49F93BAE1}"
 EndProject
